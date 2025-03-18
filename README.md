@@ -1,4 +1,4 @@
-## 📸 Preview
+##  🍽️ Omnifood - Responsive Landing Page
 
 ![image](https://github.com/user-attachments/assets/a247abcc-5715-409d-8905-1f88cf5e362d)
 
